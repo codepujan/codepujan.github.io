@@ -1,0 +1,12 @@
+---
+title: "How the tables have turned: Studying the new wave of social bots on Twitter using complex network analysis techniques"
+collection: publications
+permalink: /publication/paper-bots
+excerpt: 'Analysis of new wave of social bots using network science techniques'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3341161.3342898'
+date: 2020-01-15
+venue: 'International Conference on Advances in Social Networks Analysis and Mining (ASONAM)'
+citation: 'P. Paudel, TT. Nguyen, A. Hatua and AH. Sung, “How the tables have turned: Studying the new wave of social bots on Twitter using complex network analysis techniques,” 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, Vancouver, Canada, 2019.'
+---
+
+Twitter bots have evolved from easily-detectable, simple content spammers with bogus identities to sophisticated players embedded in deep levels of social networks, silently promoting affiliate campaigns, marketing various products and services, and orchestrating or coordinating political activities. Much research has been reported on building accurate machine learning classifiers to identifying bots in social networks; recent works on social bots have started the new line of research on the existence, placement, and functions of the bots in a collective manner. In this paper, we study two families of Twitter bots which have been studied previously with respect to spamming activities through advertisement and political campaigns, and perform an evolutionary comparison with the new waves of bots currently found in Twitter. We uncover various evolved tendencies of the new social bots under social, communication, and behavioral patterns. Our findings show that these bots demonstrate evolved core-periphery structure; are deeply embedded in their networks of communication; exhibit complex information diffusion and heterogeneous content authoring patterns; perform mobilization of leaders across communication roles; and reside in niche topic communities. These characteristics make them highly deceptive as well as more effective in achieving operational goals than their traditional counterparts. We conclude by discussing some possible applications of the discovered behavioral and social traits of the evolved bots, and ways to build effective bot detection systems.
