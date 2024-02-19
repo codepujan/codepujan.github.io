@@ -21,7 +21,7 @@ repository               : "codepujan/codepujan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "images/profile.jpeg"
   name             : "Pujan Paudel"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D candidate at Boston Unviersity"
