@@ -6,7 +6,7 @@ excerpt: 'Improving visual soft moderation using perceptual hashing and vector d
 venue: '33rd Usenix Security Symposium'
 paperurl: ''
 date: 2024-08-14
-citation: 'P. Paudel, C. Ling, R. Auger, J.Blackburn and G. Stringhini, “PIXELMOD: Improving Soft Moderation of Visual Misleading Information on Twitter,” 33rd Usenix Security Symposium, Philadelphia
+citation: 'P. Paudel, C. Ling, J.Blackburn and G. Stringhini, “PIXELMOD: Improving Soft Moderation of Visual Misleading Information on Twitter,” 33rd Usenix Security Symposium, Philadelphia
 PA, USA, 2024'
 ---
 ⏳⏳ Pre-print coming soon. Stay tuned! 👀
