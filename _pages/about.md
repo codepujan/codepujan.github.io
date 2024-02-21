@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Pujan Paudel"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,6 +13,7 @@ Find the pdf version of my CV <a href="files/pujan_cv_feb19.pdf" target="_blank"
 
 News
 ------
+* 02/2024: 📚📚 Our paper on visual soft moderation was accepted to Usenix 2024.
 * 02/2024: 📚📚 Our paper on contextual soft moderation was accepted to Usenix 2024.
 * 12/2023: 🎉🎉 Passed my PhD Prospectus Exam on soft moderation interventions on social media platforms .
 * 08/2023: 📚📚 Our paper on examining rhetroical shift in higher education discourse was accepted to PLoS One.
