@@ -16,7 +16,7 @@ News
 * 02/2024: 📚📚 Our paper on visual soft moderation was accepted to Usenix 2024.
 * 02/2024: 📚📚 Our paper on contextual soft moderation was accepted to Usenix 2024.
 * 12/2023: 🎉🎉 Passed my PhD Prospectus Exam on soft moderation interventions on social media platforms .
-* 08/2023: 📚📚 Our paper on examining rhetroical shift in higher education discourse was accepted to PLoS One.
+* 08/2023: 📚📚 Our paper on examining rhetroical shift in higher education discourse using topic models was accepted to PLoS One.
 * 05/2023: 📚📚 Our paper on soft moderation using Learning To Rank was accepted to IEEE Security and Privacy 2023.
 * 01/2023: 📚📚 Our paper on Gettr social network was accepted to CySoc Workshop at 2022.
 * 05/2021: 🎉🎉 Passed my PhD Qualifiers Exam
