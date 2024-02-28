@@ -1,7 +1,7 @@
 ---
 title: "PIXELMOD: Improving Soft Moderation of Visual Misleading Information on Twitter"
 collection: publications
-permalink: /publication/paper-ctd
+permalink: /publication/paper-pixelmod
 excerpt: 'Improving visual soft moderation using perceptual hashing and vector databases'
 venue: '33rd Usenix Security Symposium'
 paperurl: ''
