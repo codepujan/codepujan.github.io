@@ -13,6 +13,7 @@ Find the pdf version of my CV <a href="files/pujan_cv_updated.pdf" target="_blan
 
 News
 ------
+* 07/2024: 🎉🎉 I recieved a travel grant from Usenix Security to attend [Usenix Security Symposium 2024] (https://www.usenix.org/conference/usenixsecurity24). I will be presenting two of our recent papers.
 * 07/2024: 📚📚 Our paper on state-sponsored influence campaigns on Twitter was accepted to RAID 2024.
 * 05/2024: 📚📚 Our dataset paper on Scored social media platform was accepted to ICWSM 2024.
 * 04/2024: 👨‍💼👨‍💼 I gave a talk on [Annual Boston Security Usability Research Day](https://absurd.cs.tufts.edu/) on our ongoing work on Improving Soft Moderation Interventions on Social Media Platforms.
