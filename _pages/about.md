@@ -13,6 +13,8 @@ Find the pdf version of my CV <a href="files/pujan_cv_updated.pdf" target="_blan
 
 News
 ------
+* 07/2024: 📚📚 Our paper on state-sponsored influence campaigns on Twitter was accepted to RAID 2024.
+* 05/2024: 📚📚 Our dataset paper on Scored social media platform was accepted to ICWSM 2024.
 * 04/2024: 👨‍💼👨‍💼 I gave a talk on [Annual Boston Security Usability Research Day](https://absurd.cs.tufts.edu/) on our ongoing work on Improving Soft Moderation Interventions on Social Media Platforms.
 * 02/2024: 📚📚 Our paper on visual soft moderation was accepted to Usenix 2024.
 * 02/2024: 📚📚 Our paper on contextual soft moderation was accepted to Usenix 2024.
@@ -20,7 +22,7 @@ News
 * 08/2023: 📚📚 Our paper on examining rhetroical shift in higher education discourse using topic models was accepted to PLoS One.
 * 05/2023: 📚📚 Our paper on soft moderation using Learning To Rank was accepted to IEEE Security and Privacy 2023.
 * 01/2023: 📚📚 Our paper on Gettr social network was accepted to CySoc Workshop at 2022.
-* 05/2021: 🎉🎉 Passed my PhD Qualifiers Exam
-* 08/2020: 🧑🏻‍🏫🧑🏻‍🏫 Started my PhD at Boston University
-* 05/2020: 🎓🎓 Graduated from the University of Southern Mississippi 
+* 05/2021: 🎉🎉 Passed my PhD Qualifiers Exam.
+* 08/2020: 🧑🏻‍🏫🧑🏻‍🏫 Started my PhD at Boston University.
+* 05/2020: 🎓🎓 Graduated from the University of Southern Mississippi.
 * 09/2019: 📚📚 Our paper on new wave of Twitter bots was accepted to ASONAM 2019.
