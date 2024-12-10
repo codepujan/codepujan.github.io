@@ -13,10 +13,10 @@ Find the pdf version of my CV <a href="files/pujan_cv_updated.pdf" target="_blan
 
 News
 ------
-* 12/2024: 💼💼 I completed my 3 month long internship as a Machine Learning (ML) PhD Intern at [Truveta](https://www.truveta.com/).
+* 12/2024: 💼💼 I completed my 3 months long internship as a Machine Learning (ML) PhD Intern at [Truveta](https://www.truveta.com/).
 * 11/2024: 👨‍💼👨‍💼 I presented our paper PixelMod as a finalist in the [Applied Cyber Security Competition](https://www.csaw.io/research) organized by [NYU CSAW](https://www.csaw.io/).
 * 07/2024: 🎉🎉 I recieved a travel grant from Usenix Security to attend [Usenix Security Symposium 2024](https://www.usenix.org/conference/usenixsecurity24). I will be presenting two of our recent papers.
-* 08/2024: 💼💼 I completed my 3 month long internship as a Natural Language Processing (NLP) Research Intern at [Merck Research Labs]( https://www.truveta.com/](https://www.merck.com/ ).
+* 08/2024: 💼💼 I completed my 3 months long internship as a Natural Language Processing (NLP) Research Intern at [Merck Research Labs](https://www.truveta.com/)
 * 07/2024: 📚📚 Our paper on state-sponsored influence campaigns on Twitter was accepted to RAID 2024.
 * 05/2024: 📚📚 Our dataset paper on Scored social media platform was accepted to ICWSM 2024.
 * 04/2024: 👨‍💼👨‍💼 I gave a talk on [Annual Boston Security Usability Research Day](https://absurd.cs.tufts.edu/) on our ongoing work on Improving Soft Moderation Interventions on Social Media Platforms.
