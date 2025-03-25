@@ -13,7 +13,7 @@ Find the pdf version of my CV <a href="files/pujan_cv_updated.pdf" target="_blan
 
 News
 ------
-* 02/2024: 📖📖 Our research on large scale data-driven analysis of Facebook groups on the ReOpen Movement will be available as a book in _Cambridge Elements_ (Protests and Radicalization in the Digital Age: The Reopen Movement) ! 
+* 02/2025: 📖📖 Our research on large scale data-driven analysis of Facebook groups on the ReOpen Movement will be available as a book in _Cambridge Elements_ (Protests and Radicalization in the Digital Age: The Reopen Movement) ! 
 * 12/2024: 💼💼 I completed my 3 months long internship as a Machine Learning (ML) PhD Intern at [Truveta](https://www.truveta.com/).
 * 11/2024: 👨‍💼👨‍💼 I presented our paper PixelMod as a finalist in the [Applied Cyber Security Competition](https://www.csaw.io/research) organized by [NYU CSAW](https://www.csaw.io/).
 * 07/2024: 🎉🎉 I recieved a travel grant from Usenix Security to attend [Usenix Security Symposium 2024](https://www.usenix.org/conference/usenixsecurity24). I will be presenting two of our recent papers.
