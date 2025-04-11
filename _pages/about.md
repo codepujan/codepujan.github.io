@@ -13,6 +13,7 @@ Find the pdf version of my CV <a href="files/pujan_cv_updated.pdf" target="_blan
 
 News
 ------
+* 04/2025: 👨‍💼👨‍💼 I gave a talk on [Annual Boston Security Usability Research Day](https://absurd.cs.tufts.edu/) about our ongoing work on Proactively Detecing Scam Websites by Mining Toxic Search Queries.
 * 02/2025: 📖📖 Our research on large scale data-driven analysis of Facebook groups on the ReOpen Movement will be available as a book in _Cambridge Elements_ (Protests and Radicalization in the Digital Age: The Reopen Movement) ! 
 * 12/2024: 💼💼 I completed my 3 months long internship as a Machine Learning (ML) PhD Intern at [Truveta](https://www.truveta.com/).
 * 11/2024: 👨‍💼👨‍💼 I presented our paper PixelMod as a finalist in the [Applied Cyber Security Competition](https://www.csaw.io/research) organized by [NYU CSAW](https://www.csaw.io/).
@@ -20,7 +21,7 @@ News
 * 08/2024: 💼💼 I completed my 3 months long internship as a Natural Language Processing (NLP) Research Intern at [Merck Research Labs](https://www.truveta.com/)
 * 07/2024: 📚📚 Our paper on state-sponsored influence campaigns on Twitter was accepted to RAID 2024.
 * 05/2024: 📚📚 Our dataset paper on Scored social media platform was accepted to ICWSM 2024.
-* 04/2024: 👨‍💼👨‍💼 I gave a talk on [Annual Boston Security Usability Research Day](https://absurd.cs.tufts.edu/) on our ongoing work on Improving Soft Moderation Interventions on Social Media Platforms.
+* 04/2024: 👨‍💼👨‍💼 I gave a talk on [Annual Boston Security Usability Research Day](https://absurd.cs.tufts.edu/) about our ongoing work on Improving Soft Moderation Interventions on Social Media Platforms.
 * 02/2024: 📚📚 Our paper on visual soft moderation (PixelMod) was accepted to Usenix 2024.
 * 02/2024: 📚📚 Our paper on contextual soft moderation (CTD) was accepted to Usenix 2024.
 * 12/2023: 🎉🎉 Passed my PhD Prospectus Exam on soft moderation interventions on social media platforms .
