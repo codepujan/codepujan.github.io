@@ -13,6 +13,7 @@ Find the pdf version of my CV <a href="files/pujan_cv_updated.pdf" target="_blan
 
 News
 ------
+* 08/2025: 📚📚 Our paper LOKI: Proactively discovering online scams by mining toxic search queries was accepted to NDSS 2026. 
 * 04/2025: 👨‍💼👨‍💼 I gave a talk on [Annual Boston Security Usability Research Day](https://absurd.cs.tufts.edu/) about our ongoing work on Proactively Detecing Scam Websites by Mining Toxic Search Queries.
 * 02/2025: 📖📖 Our research on large scale data-driven analysis of Facebook groups on the ReOpen Movement will be available as a book in _Cambridge Elements_ (Protests and Radicalization in the Digital Age: The Reopen Movement) ! 
 * 12/2024: 💼💼 I completed my 3 months long internship as a Machine Learning (ML) PhD Intern at [Truveta](https://www.truveta.com/).
