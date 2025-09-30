@@ -24,9 +24,9 @@ author:
   avatar           : "profile.jpeg"
   name             : "Pujan Paudel"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D candidate at Boston Unviersity"
-  location         : "Boston, MA"
-  employer         : "Boston University"
+  bio              : "ML Researcher at Truveta"
+  location         : "Chicago, IL"
+  employer         : "Truveta"
   uri              : # URL
   email            : "ppaudel@bu.edu" 
 
