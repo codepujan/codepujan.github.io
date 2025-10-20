@@ -14,7 +14,9 @@ Find the pdf version of my CV <a href="files/pujan_cv_updated.pdf" target="_blan
 
 News
 ------
+* 10/2025: 🏆🏆 I received the [Student Excellence Award](https://www.bu.edu/hic/2025/09/25/38694/) from BU Hariri Institute for Computing.
 * 09/2025: 🎓🎓 I succesfully defended my PhD dissertation on 'Data-Driven Approaches for Improving the Identification of Misleading content online.'
+* 08/2025: 📚📚 Our paper Revealing the secret power: How algorithms can influence content visibility on social media was accepted to NDSS 2026.
 * 08/2025: 📚📚 Our paper LOKI: Proactively discovering online scams by mining toxic search queries was accepted to NDSS 2026. 
 * 04/2025: 👨‍💼👨‍💼 I gave a talk on [Annual Boston Security Usability Research Day](https://absurd.cs.tufts.edu/) about our ongoing work on Proactively Detecing Scam Websites by Mining Toxic Search Queries.
 * 02/2025: 📖📖 Our research on large scale data-driven analysis of Facebook groups on the ReOpen Movement will be available as a book in _Cambridge Elements_ (Protests and Radicalization in the Digital Age: The Reopen Movement) ! 
