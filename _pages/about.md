@@ -7,14 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Data Scientist at [Analysis Group](https://www.analysisgroup.com/) where I work on a range of litigation matters involving intellectual property, antitrust, privacy and security.
+I am a Senior Data Scientist at [Analysis Group](https://www.analysisgroup.com/) where I work on a range of litigation matters involving intellectual property, antitrust, privacy and data security.
 I recently completed my PhD from [BU SecLab](https://seclab.bu.edu/) working with Professor [Gianluca Stringhini](https://seclab.bu.edu/people/gianluca/). My research focused on building systems to improve the identification of misleading content on the web. I apply tools from Machine Learning, Natural Language Processing, Information Retrieval, Statistics, etc. to build tools that can help platforms and security systems identify misleading content in their services at scale. My other areas of interest are Internet Measurement, Technology and Policy, and Cybersecurity. In my past life, I used to work on web development, and mobile app development and actively participated in [Hackathons](https://devpost.com/codepujan).
 
 Find the pdf version of my CV <a href="files/pujan_cv_updated.pdf" target="_blank" rel="noopener noreferrer">here</a>. Last Updated: 02/18/2024 
 
 News
 ------
+* 01/2026: 💼💼 I started as a Senior Data Scientist at [Analysis Group](https://analysisgroup.com/).
 * 10/2025: 🏆🏆 I received the [Student Excellence Award](https://www.bu.edu/hic/2025/09/25/38694/) from BU Hariri Institute for Computing.
+* 09/2025: 💼💼 I started as a ML Postdoc Researcher at [Truveta](https://www.truveta.com/).
 * 09/2025: 🎓🎓 I succesfully defended my PhD dissertation on 'Data-Driven Approaches for Improving the Identification of Misleading content online.'
 * 08/2025: 📚📚 Our paper Revealing the secret power: How algorithms can influence content visibility on social media was accepted to NDSS 2026.
 * 08/2025: 📚📚 Our paper LOKI: Proactively discovering online scams by mining toxic search queries was accepted to NDSS 2026.
