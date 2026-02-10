@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a ML Researcher at Truveta where I work on developing clinical foundational models to [Save Lives with Data](https://www.truveta.com/).
+I am a Senior Data Scientist at [Analysis Group](https://www.analysisgroup.com/) where I work on a range of litigation matters involving intellectual property, antitrust, privacy and security.
 I recently completed my PhD from [BU SecLab](https://seclab.bu.edu/) working with Professor [Gianluca Stringhini](https://seclab.bu.edu/people/gianluca/). My research focused on building systems to improve the identification of misleading content on the web. I apply tools from Machine Learning, Natural Language Processing, Information Retrieval, Statistics, etc. to build tools that can help platforms and security systems identify misleading content in their services at scale. My other areas of interest are Internet Measurement, Technology and Policy, and Cybersecurity. In my past life, I used to work on web development, and mobile app development and actively participated in [Hackathons](https://devpost.com/codepujan).
 
 Find the pdf version of my CV <a href="files/pujan_cv_updated.pdf" target="_blank" rel="noopener noreferrer">here</a>. Last Updated: 02/18/2024 
@@ -17,7 +17,8 @@ News
 * 10/2025: 🏆🏆 I received the [Student Excellence Award](https://www.bu.edu/hic/2025/09/25/38694/) from BU Hariri Institute for Computing.
 * 09/2025: 🎓🎓 I succesfully defended my PhD dissertation on 'Data-Driven Approaches for Improving the Identification of Misleading content online.'
 * 08/2025: 📚📚 Our paper Revealing the secret power: How algorithms can influence content visibility on social media was accepted to NDSS 2026.
-* 08/2025: 📚📚 Our paper LOKI: Proactively discovering online scams by mining toxic search queries was accepted to NDSS 2026. 
+* 08/2025: 📚📚 Our paper LOKI: Proactively discovering online scams by mining toxic search queries was accepted to NDSS 2026.
+* 08/2025: 💼💼 I completed my 3 months long internship as a Senior Data Science Intern at [Analysis Group](https://www.analysisgroup.com/).
 * 04/2025: 👨‍💼👨‍💼 I gave a talk on [Annual Boston Security Usability Research Day](https://absurd.cs.tufts.edu/) about our ongoing work on Proactively Detecing Scam Websites by Mining Toxic Search Queries.
 * 02/2025: 📖📖 Our research on large scale data-driven analysis of Facebook groups on the ReOpen Movement will be available as a book in _Cambridge Elements_ (Protests and Radicalization in the Digital Age: The Reopen Movement) ! 
 * 12/2024: 💼💼 I completed my 3 months long internship as a Machine Learning (ML) PhD Intern at [Truveta](https://www.truveta.com/).
